@@ -1,0 +1,22 @@
+.page-container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.page-container > * {
+    margin: 10px 0;
+}
+
+.flex-container {
+    display: flex;
+    flex: 1;
+    border: 1px solid black;
+}
+
+.flex-container.two-column-container>* {
+    margin: 10px;
+}
+
+.food-image {
+    object-fit: none;
+}

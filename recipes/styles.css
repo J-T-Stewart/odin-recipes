@@ -1,0 +1,20 @@
+.text-container,
+.list-container {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.recipe-content-container {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.list-container.directions-container {
+    height: 100%;
+}
+
+.ingrediant-list > li,
+.directions-list > li {
+    margin: 5px;
+}
