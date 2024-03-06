@@ -1,0 +1,10 @@
+.page-container {
+    margin: 0 auto;
+    width: 75%;
+}
+
+.text-container,
+.list-container {
+    border: 1px solid black;
+    padding: 15px;
+}
