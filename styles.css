@@ -13,7 +13,7 @@
     border: 1px solid black;
 }
 
-.flex-container.two-column-container>* {
+.flex-container.two-column-container > * {
     margin: 10px;
 }
 
